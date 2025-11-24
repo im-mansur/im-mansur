@@ -2,7 +2,7 @@
 <!-- ✨ ANIMATED HEADER  -->
 <!-- ---------------------------------------------------------------- -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=3500&color=FFD700&center=true&vCenter=true&width=650&lines=Hello+I'm+Mansur+Ahamed+A;Web+Developer;Graphic+Designer+|+Aspiring+Accountant;Passionate+Learner+|+Creator" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&size=35&duration=5500&color=FFD700&center=true&vCenter=true&width=650&lines=Hello+I'm+Mansur+Ahamed+A;Web+Developer;Graphic+Designer+|;Aspiring+Accountant;Passionate+Learner+|+Creator" />
 </h1>
 
 <p align="center">🌟 Passionate about building meaningful digital experiences & solving real-world problems through design and technology.</p>
